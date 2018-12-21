@@ -1,4 +1,4 @@
 # Dockerfiles
 
-This repository just contains a set of Dockerfiles to build Docker container images
-that I have used for some different projects.
+This repository just contains a set of sample Dockerfiles to build different 
+Docker container images.  
